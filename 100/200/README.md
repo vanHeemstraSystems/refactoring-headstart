@@ -36,8 +36,8 @@ The project’s requirements are constantly changing and at some point it may be
 
 On the other hand, the project’s programmers are writing new code every day that works with the obsolete parts. Therefore, the longer refactoring is delayed, the more dependent code will have to be reworked in the future.
 
-## Lack of compliance monitoring
+### Lack of compliance monitoring
 This happens when everyone working on the project writes code as they see fit (i.e. the same way they wrote the last project).
 
-## Incompetence
+### Incompetence
 This is when the developer just doesn’t know how to write decent code.
