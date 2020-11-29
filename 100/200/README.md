@@ -2,7 +2,7 @@
 
 Everyone does their best to write excellent code from scratch. There probably isn’t a programmer out there who intentionally writes unclean code to the detriment of the project. But at what point does clean code become unclean?
 
-The metaphor of “technical debt” in regards to unclean code was originally suggested by Ward Cunningham.
+The metaphor of “technical debt” in regards to unclean code was originally suggested by [Ward Cunningham](https://en.wikipedia.org/wiki/Technical_debt).
 
 If you get a loan from a bank, this allows you to make purchases faster. You pay extra for expediting the process - you don’t just pay off the principal, but also the additional interest on the loan. Needless to say, you can even rack up so much interest that the amount of interest exceeds your total income, making full repayment impossible.
 
