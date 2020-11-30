@@ -17,6 +17,6 @@ See [Readme.md](./200/README.md)
 
 See [Readme.md](./300/README.md)
 
-## 400 Refactorings
+## 400 Refactoring Techniques
 
 See [Readme.md](./400/README.md)
