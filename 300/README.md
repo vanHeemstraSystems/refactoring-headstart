@@ -60,3 +60,11 @@ All the smells in this group contribute to excessive coupling between classes or
 - Incomplete Library Class
 - Message Chains
 - Middle Man
+
+## 600 Other Smells
+
+See [README.md](./600/README.md)
+
+Below are the smells which don’t fall into any broad category.
+
+- Incomplete Library Class
