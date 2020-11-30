@@ -13,7 +13,7 @@ See [Readme.md](./100/README.md)
 
 See [Readme.md](./200/README.md)
 
-## 300 Code Smell
+## 300 Code Smells
 
 See [Readme.md](./300/README.md)
 
