@@ -4,7 +4,7 @@
 
 See [README.md](./100/README.md)
 
-## 200 Techincal Debt
+## 200 Technical Debt
 
 See [README.md](./200/README.md)
 
