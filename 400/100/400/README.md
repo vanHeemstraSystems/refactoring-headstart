@@ -93,4 +93,4 @@ Sometimes seemingly useless temps are used to cache the result of an expensive o
 
 ## Helps other refactorings
 - Replace Temp with Query
-- 100 Extract Method [README.md](./100/README.md)
+- 100 Extract Method [README.md](../100/README.md)
