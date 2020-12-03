@@ -1,4 +1,7 @@
 # 600 Other Smells
+
+See [README.md](./100/README.md)
+
 Below are the smells which don’t fall into any broad category.
 
 - Incomplete Library Class
