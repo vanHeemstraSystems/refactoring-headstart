@@ -13,3 +13,6 @@ The author of the library hasn’t provided the features you need or has refused
 
 ## Payoff
 Reduces code duplication (instead of creating your own library from scratch, you can still piggy-back off an existing one).
+
+## When to Ignore
+Extending a library can generate additional work if the changes to the library involve changes in code.
