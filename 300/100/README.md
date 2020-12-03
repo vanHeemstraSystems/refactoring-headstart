@@ -9,7 +9,7 @@ A method contains too many lines of code. Generally, any method longer than ten 
 
 ## 200 Large Class
 
-See [README.md](./300/README.md)
+See [README.md](./200/README.md)
 
 A class contains many fields/methods/lines of code.
 
