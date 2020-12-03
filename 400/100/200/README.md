@@ -135,4 +135,4 @@ By minimizing the number of unneeded methods, you make the code more straightfor
 - 100 Extract Method [README.md](../100/README.md)
 
 ## Eliminates smell
-- 600 Speculative Generality [README.md]()
+- 600 Speculative Generality [README.md](../../../300/400/600/README.md)
